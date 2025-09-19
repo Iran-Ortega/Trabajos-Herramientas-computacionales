@@ -1,2 +1,3 @@
 # Trabajos-Herramientas-computacionales
 Actividades de la semana tec de herramientas computacionales con el profe Omar.
+En esta carpeta integré todo lo visto en clase: desde operaciones básicas de procesamiento de imágenes en OpenCV (conversión de colores, filtros, ajuste de brillo y contraste, detección de bordes) hasta la implementación de una red neuronal simple en Keras para clasificar emojis en diferentes categorías. Este trabajo me permitió practicar la manipulación de imágenes, entender sus representaciones en distintos espacios de color y dar un primer paso en el uso de modelos de aprendizaje profundo para clasificación, obteniendo resultados satisfactorios y reforzando los conceptos de la materia.
